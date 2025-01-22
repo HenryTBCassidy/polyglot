@@ -1,0 +1,1 @@
+A small research project experimenting with phrase assembly for the language learning framework [SaySomething](https://www.saysomethingin.com/en/automagic/?gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfTWpLd83P1eB5PeUWjzCPRwhdABJrmd4nLf51iTzZLUiu4ow5HP7WgaAq5GEALw_wcB)
